@@ -15,8 +15,6 @@ The model outputs:
 - Confidence score
 
 ## Dataset
-
-- Provided by the course
 - Includes:
   - **Training set**
   - **Validation set**
